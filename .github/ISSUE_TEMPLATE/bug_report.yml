@@ -1,0 +1,67 @@
+name: Bug Report
+description: Report something that is broken or not working correctly.
+labels: ["type: bug"]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product is this bug about?
+      options:
+        - GhostWin
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this behavior?
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain the issue.
+
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      description: What version of the app are you running? (Shown in About page)
+      placeholder: "1.0.0"
+
+  - type: input
+    id: os
+    attributes:
+      label: Windows Version
+      description: What version of Windows are you using?
+      placeholder: "Windows 11 24H2 (Build 26100.x)"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other context about the problem.
