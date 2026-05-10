@@ -9,6 +9,7 @@ body:
       description: Which product is this bug about?
       options:
         - GhostWin
+        - RDP Heartbeat
     validations:
       required: true
 

@@ -9,6 +9,7 @@ body:
       description: Which product is this feature request for?
       options:
         - GhostWin
+        - RDP Heartbeat
     validations:
       required: true
 

@@ -7,8 +7,7 @@ Welcome to the central feedback hub for all Prune Lab products.
 | Product | Description |
 |---------|-------------|
 | **GhostWin** | Transparent window manager for Windows |
-
-> More products coming soon.
+| **RDP Heartbeat** | Visual heartbeat for detecting RDP freezes |
 
 ## How to Provide Feedback
 
