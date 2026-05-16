@@ -10,6 +10,7 @@ body:
       options:
         - GhostWin
         - RDP Heartbeat
+        - RDP Clipboard Anchor
     validations:
       required: true
 
