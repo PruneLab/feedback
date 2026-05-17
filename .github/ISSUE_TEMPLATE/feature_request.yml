@@ -11,6 +11,7 @@ body:
         - GhostWin
         - RDP Heartbeat
         - RDP Clipboard Anchor
+        - EnvStudio
     validations:
       required: true
 
