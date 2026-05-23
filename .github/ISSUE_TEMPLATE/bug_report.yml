@@ -12,6 +12,7 @@ body:
         - RDP Heartbeat
         - RDP Clipboard Anchor
         - EnvStudio
+        - QuickGUID
     validations:
       required: true
 
