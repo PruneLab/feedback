@@ -13,6 +13,8 @@ body:
         - RDP Clipboard Anchor
         - EnvStudio
         - QuickGUID
+        - QuickICO
+        - ICO Unpacker
     validations:
       required: true
 

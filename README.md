@@ -11,6 +11,8 @@ Welcome to the central feedback hub for all Prune Lab products.
 | **RDP Clipboard Anchor** | Seamless clipboard manager and RDP sync tool |
 | **EnvStudio** | Modern environment variable manager for Windows |
 | **QuickGUID** | Native GUID/UUID generator and converter for Windows |
+| **QuickICO** | Compile a single image into .ico, .icns, or favicon formats |
+| **ICO Unpacker** | Extract and export icons from .ico and .icns files |
 
 ## How to Provide Feedback
 
