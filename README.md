@@ -7,6 +7,7 @@ Welcome to the central feedback hub for all Prune Lab products.
 | Product | Description |
 |---------|-------------|
 | **GhostWin** | Transparent window manager for Windows |
+| **WhereIsMyMouse** | Mouse cursor finder for multi-monitor setups |
 | **RDP Heartbeat** | Visual heartbeat for detecting RDP freezes |
 | **RDP Clipboard Anchor** | Seamless clipboard manager and RDP sync tool |
 | **EnvStudio** | Modern environment variable manager for Windows |
